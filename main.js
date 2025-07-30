@@ -1,4 +1,3 @@
-// main.js
 import * as THREE from 'https://cdn.skypack.dev/three';
 
 const canvas = document.getElementById("cubeCanvas");
